@@ -1,7 +1,2 @@
 # Homework 9
-
-Your data set for this homework is the same as Homework 8, using the `appointments`, `users`, and `participants` tables. If you don't still have that homework on your system, you should look back to Homework 8 and refollow the instructions there to get the data.
-
-Make sure you remember to upload the CSV file for problem 2 as well as your normal materials!
-
-Due: April 1, 2022
+This homework focuses on using regular expression to split or extract information from text, as well as using Postgres' full text search features. You'll initially be using `fables.txt` and cleaning and parsing the data into a nicer tabular form, before doing some analysis. You won't need `make_animals.sql` until the analysis. Don't forget to upload CSV files of any tables you were asked to create!
